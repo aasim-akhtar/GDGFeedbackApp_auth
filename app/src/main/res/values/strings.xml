@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GDGFeedbackAPP</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="qualification">
+        <item>Select Qualification</item>
+        <item>Higher Secondary</item>
+        <item>Post Graduate</item>
+        <item>PhD</item>
+    </string-array>
+    <string name="title_activity_thank_you">ThankYouActivity</string>
+</resources>
