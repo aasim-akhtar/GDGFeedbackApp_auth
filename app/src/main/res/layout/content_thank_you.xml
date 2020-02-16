@@ -17,5 +17,18 @@
         android:textColor="@color/colorAccent"
         android:text="Thank You!!!"/>
 
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/frrebackRecyclerView">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
